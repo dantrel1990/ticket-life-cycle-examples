@@ -42,7 +42,7 @@ Above is an example of a new open ticket with a business critical outage with a 
 <img src="https://i.imgur.com/SzVKUs4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a financial affecting event, with a seveerity level of a Sev-B and must be resolved witn 4 hours.
+Above is an example of a new open ticket with a personal computer issue, with a seveerity level of a Sev-C and must be resolved witn 8 hours.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ Above is an example of a new open ticket with a financial affecting event, with 
 <img src="https://i.imgur.com/Sj8lXXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of a new ticket with a department computer issue, with a severity level Sev-C and must be resolved within 8 hours.
+Above is an example of a new ticket with a department computer issue, with a severity level Sev-B and must be resolved within 4 hours.
 </p>
 <br />
 
@@ -58,9 +58,14 @@ Above is an example of a new ticket with a department computer issue, with a sev
 <img src="https://i.imgur.com/erhiMEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is example of the correspondance between IT support and Customer service department and how they communicated to solve the problem.
+Above is example of it support helping to resolve a open ticket and close it out.
 <p/>
 <br />
-  
+
+<p>
+<img src="https://i.imgur.com/6ddbcvF.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>  
+<p> 
+Above is example of the correspondance between IT support and Customer service department and how they communicated to solve the problem.
 </p>
 
