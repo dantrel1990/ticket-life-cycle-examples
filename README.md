@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/LHKGUsi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a business critical outage with a severity Sev-A and must be resolved within 1 hour.
+Above is an example of a new open ticket with a business critical outage with a severity level Sev-A and must be resolved within 1 hour.
 </p>
 <br />
 
@@ -42,10 +42,15 @@ Above is an example of a new open ticket with a business critical outage with a 
 <img src="https://i.imgur.com/SzVKUs4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a personal computer issue, with a seveerity level of a Sev-B and must be resolved witn 4 hours.
+Above is an example of a new open ticket with a financial affecting event, with a seveerity level of a Sev-B and must be resolved witn 4 hours.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Sj8lXXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p> 
+Above is an example of a new ticket with a department computer issue, with a severity level Sev-C and must be resolved within 8 hours.
+</p>
+<br />
+
