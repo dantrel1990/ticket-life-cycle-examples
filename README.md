@@ -54,3 +54,13 @@ Above is an example of a new ticket with a department computer issue, with a sev
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/erhiMEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+Above is example of the correspondance between IT support and Customer service department and how they communicated to solve the problem.
+<p/>
+<br />
+  
+</p>
+
