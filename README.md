@@ -53,7 +53,7 @@ they will need to be assigned to a primary department and given a primary role f
 <img src="https://i.imgur.com/BYC2smE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of an SLA (is unlimited in osTicket. The purpose of the SLA Plan is to provide a length of 
+Above is an example of an SLA (SLAs are unlimited in osTicket). The purpose of the SLA Plan is to provide a length of 
 time in which the help desk Administrator expects tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans.
 Each SLA plan is different this SLA has 3 severity levels 
 sev-A (has the highest level of severity and must be resolved and closed within 1 hour of ticket intake).
