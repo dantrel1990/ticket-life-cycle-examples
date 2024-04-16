@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Above is a step-by-step setup for installing osTicket: launch IIS as an admin, enable extensions, rename and post configuration,
-and assign permissions, and download Heidi SQL.
+assign permissions, and download Heidi SQL.
 </p>
 <br />
 
@@ -76,10 +76,10 @@ and the priority of the ticket emergency to low, ranging from business critical 
 <img src="https://i.imgur.com/YFGtzmq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of an open ticket with a normal priority level SEV-b, coming from the support dept. 
+Above is an example of an open ticket with a normal priority level SEV-b, ken from coming from the support dept stated that ever since last night nobody in accounting has been able to use Adobe Reader. 
 the details of the ticket state that the entire account dept Adobe reader is not functioning correctly. 
 an administrator named Jane has updated the priority of the ticket to a high-priority SEV-a and has assigned the ticket to John Doe, 
-and has allowed him 4 hours to resolve the problem.
+and allowed him 4 hours to resolve the problem.
 
 
   
@@ -87,9 +87,11 @@ and has allowed him 4 hours to resolve the problem.
 <br />
 
 <p>
-<img src="https://i.imgur.com/6ddbcvF.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/rXTwoZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>  
 <p> 
-Above is an example of the correspondence between IT support and the Customer service department and how they communicated to solve the problem.
+Above is an example of the correspondence between John Doe and Josh from the support department. John found a rolled-back version of Adobe Reader which will allow accounting to utilize Adobe Reader 
+  until he does further research as to why the updated version is malfunctioning. A response from Josh(support) indicates that the problem is resolved and the Adobe Reader software has been updated and ready for use, and has marked this ticket resolved and closed.
 </p>
+<br />
 
