@@ -76,7 +76,7 @@ and the priority of the ticket emergency to low, ranging from business critical 
 <img src="https://i.imgur.com/erhiMEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of its support helping to resolve an open ticket and close it out.
+Above is an example of an open ticket that has been assigned 
 <p/>
 <br />
 
