@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,10 +31,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/jAGeZSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hnp6Cri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is a list of configurations and help topics for ticket life cycle.
+Above is a step-by-step setup for installing osTicket: launch as an admin, enable extensions, rename and post configuration,
+assign permissions, create passwords, and log into osTicket.  
 </p>
 <br />
 
@@ -42,7 +43,7 @@ Above is a list of configurations and help topics for ticket life cycle.
 <img src="https://i.imgur.com/LHKGUsi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a business critical outage with a severity level Sev-A and must be resolved within 1 hour.
+Above is an example of a new open ticket with a business-critical outage with a severity level Sev-A that must be resolved within 1 hour.
 </p>
 <br />
 
@@ -50,7 +51,7 @@ Above is an example of a new open ticket with a business critical outage with a 
 <img src="https://i.imgur.com/SzVKUs4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a personal computer issue, with a seveerity level of a Sev-C and must be resolved witn 8 hours.
+Above is an example of a new open ticket with a personal computer issue, with a severity level of a Sev-C, and must be resolved within 8 hours.
 </p>
 <br />
 
@@ -58,7 +59,7 @@ Above is an example of a new open ticket with a personal computer issue, with a 
 <img src="https://i.imgur.com/Sj8lXXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of a new ticket with a department computer issue, with a severity level Sev-B and must be resolved within 4 hours.
+Above is an example of a new ticket with a department computer issue, with a severity level Sev-B, and must be resolved within 4 hours.
 </p>
 <br />
 
@@ -66,7 +67,7 @@ Above is an example of a new ticket with a department computer issue, with a sev
 <img src="https://i.imgur.com/erhiMEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is example of it support helping to resolve a open ticket and close it out.
+Above is an example of its support helping to resolve an open ticket and close it out.
 <p/>
 <br />
 
@@ -74,6 +75,6 @@ Above is example of it support helping to resolve a open ticket and close it out
 <img src="https://i.imgur.com/6ddbcvF.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>  
 <p> 
-Above is example of the correspondance between IT support and Customer service department and how they communicated to solve the problem.
+Above is an example of the correspondence between IT support and the Customer service department and how they communicated to solve the problem.
 </p>
 
