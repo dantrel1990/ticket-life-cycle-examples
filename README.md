@@ -34,16 +34,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Hnp6Cri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is a step-by-step setup for installing osTicket: launch as an admin, enable extensions, rename and post configuration,
-assign permissions, create passwords, and log into osTicket.  
+Above is a step-by-step setup for installing osTicket: launch IIS as an admin, enable extensions, rename and post configuration,
+and assign permissions, and download Heidi SQL.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/LHKGUsi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xDK2uID.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a business-critical outage with a severity level Sev-A that must be resolved within 1 hour.
+Above is an image of an Admin panel in osTicket. That is configuring Agent Roles by creating new ones and adding Permissions.
 </p>
 <br />
 
