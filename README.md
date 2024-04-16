@@ -73,10 +73,16 @@ and the priority of the ticket emergency to low, ranging from business critical 
 <br />
 
 <p>
-<img src="https://i.imgur.com/erhiMEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YFGtzmq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of an open ticket that has been assigned 
+Above is an example of an open ticket with a normal priority level SEV-b, coming from the support dept. 
+the details of the ticket state that the entire account dept Adobe reader is not functioning correctly. 
+an administrator named Jane has updated the priority of the ticket to a high-priority SEV-a and has assigned the ticket to John Doe, 
+and has allowed him 4 hours to resolve the problem.
+
+
+  
 <p/>
 <br />
 
