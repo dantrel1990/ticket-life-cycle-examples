@@ -44,22 +44,31 @@ and assign permissions, and download Heidi SQL.
 </p>
 <p>
 Above is an image of an Admin panel in osTicket. That is configuring Agent Roles by creating new ones and adding Permissions.
+agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an agent to the help desk 
+they will need to be assigned to a primary department and given a primary role for the tickets\task routed to that department.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/SzVKUs4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BYC2smE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of a new open ticket with a personal computer issue, with a severity level of a Sev-C, and must be resolved within 8 hours.
+Above is an example of an SLA (is unlimited in osTicket. The purpose of the SLA Plan is to provide a length of 
+time in which the help desk Administrator expects tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans.
+Each SLA plan is different this SLA has 3 severity levels 
+sev-A (has the highest level of severity and must be resolved and closed within 1 hour of ticket intake).
+SEV-B (has a moderate level of severity and must be resolved and closed within 4 hours of ticket intake).
+SEV-C (has the lowest level of severity and must be resolved and closed within 8 hours of ticket intake).  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/Sj8lXXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/at5ivqO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Above is an example of a new ticket with a department computer issue, with a severity level Sev-B, and must be resolved within 4 hours.
+Above is an example of help topics and how tickets are assigned. Help topics will determine what department the ticket is routed to
+which will determine which agents have access to the ticket. Help topics can also determine other configurations of the ticket such as SLAs
+and the priority of the ticket emergency to low, ranging from business critical outage to general inquiry.  
 </p>
 <br />
 
